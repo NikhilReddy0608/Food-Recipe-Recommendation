@@ -1,2 +1,8 @@
-# Food-Recipe-Recommendation
-Food Recipe Recommendation System
+# Food Recipe Recommendation System
+In this project we will be creating a system to recommend recipies to the user based on the ingredients the user inputs. 
+Ideally, this would be the ingredients at the user's disposal, so that they can make use of what they have and save themselves from a shopping trip.
+
+## About the dataset
+The dataset used comes from kaggle, linked as follows: https://www.kaggle.com/irkaal/foodcom-recipes-and-reviews?select=recipes.csv.
+This file contains 28 columns of data (features) and over 522K choices for recipies.
+
