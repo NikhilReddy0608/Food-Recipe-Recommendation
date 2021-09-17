@@ -1,6 +1,6 @@
 # Food Recipe Recommendation System
-In this project we will be creating a system to recommend recipies to the user based on the ingredients the user inputs. 
-Ideally, this would be the ingredients at the user's disposal, so that they can make use of what they have and save themselves from a shopping trip.
+In this project we will be creating a system to recommend recipes to the user based on the ingredients the user inputs. 
+The point is that these would be the ingredients at the user's disposal, so that they can make use of what they have and save a shopping trip.
 
 ## Team Members
 Blessy K., Amrutha V., Rohith R. B., Nikhil R. V., Brijesh R.
