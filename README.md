@@ -10,7 +10,7 @@ The dataset used comes from kaggle, linked as follows: https://www.kaggle.com/ir
 This file contains 28 columns of data (features) and over 522K choices for recipies.
 
 ## Internal Links
-_Note: These links are made available for easy collaboration. Final versions, when ready, will be available in the repository for public view._
+_Note: These links are made available for easy collaboration. Final versions will be available in the repository for public view upon completion._
 
 Presentation: https://myunt-my.sharepoint.com/:p:/g/personal/blessykuriakose_my_unt_edu/Ed_ntcmTH49NhC74TckrpoEB2k8L1kJXsreupPz44GO5Ew?e=2xoir2
 
