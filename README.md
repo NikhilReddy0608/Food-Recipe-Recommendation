@@ -7,7 +7,7 @@ Blessy K., Amrutha V., Rohith R. B., Nikhil R. V., Brijesh R.
 
 ## About the dataset
 The dataset used comes from kaggle, linked as follows: https://www.kaggle.com/irkaal/foodcom-recipes-and-reviews?select=recipes.csv.
-This file contains 28 columns of data (features) and over 522K choices for recipies.
+This file contains 28 columns of data (features) and over 522K choices for recipies (before cleaning).
 
 ## Internal Links
 _Note: These links are included here for easy collaboration. They will be made available in the repository upon completion._
