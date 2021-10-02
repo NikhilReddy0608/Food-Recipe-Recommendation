@@ -10,8 +10,8 @@ The dataset used comes from kaggle, linked as follows: https://www.kaggle.com/ir
 This file contains 28 columns of data (features) and over 522K choices for recipies (before cleaning).
 
 ## Internal Links
-_Note: These links are included here for easy collaboration. They will be made available in the repository upon completion._
-
-Presentation: https://myunt-my.sharepoint.com/:p:/g/personal/blessykuriakose_my_unt_edu/Ed_ntcmTH49NhC74TckrpoEB2k8L1kJXsreupPz44GO5Ew?e=2xoir2
+_Note: These links are included here for easy collaboration. The formatted versions will be made available in the repository upon completion._
 
 Report: https://myunt-my.sharepoint.com/:w:/g/personal/blessykuriakose_my_unt_edu/Ec4wtyw4qTBDmDOZu3RJBc4Bvq-wvi0pzvHLlj4ekJRM0w?e=rltesf
+
+Presentation: https://myunt-my.sharepoint.com/:p:/g/personal/blessykuriakose_my_unt_edu/Ed_ntcmTH49NhC74TckrpoEB2k8L1kJXsreupPz44GO5Ew?e=2xoir2
