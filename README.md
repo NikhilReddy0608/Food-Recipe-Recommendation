@@ -17,6 +17,6 @@ Report v1 draft: https://myunt-my.sharepoint.com/:w:/g/personal/blessykuriakose_
 
 Report v2 draft: https://myunt-my.sharepoint.com/:w:/g/personal/blessykuriakose_my_unt_edu/EQT7DPf-i0NInsX9BwTyTdEBMMgBsP1pRZNFlRo7O9cWlQ?e=i8se6S
 
-Presentation ppt final: https://myunt-my.sharepoint.com/:p:/g/personal/blessykuriakose_my_unt_edu/EYBBmTi8Go9KjA1VuWTrxKwBQ57kzxilNByZ7yOjyXwb5g?e=q1OuR9
+Presentation ppt final: not available; errors with upload. Please contact Blessy at blessykuriakose@my.unt.edu for a direct ppt file.
 
 Presentation mp4 final: https://web.microsoftstream.com/video/a0d4ff7f-150d-4759-96f1-e37673e9f9eb
