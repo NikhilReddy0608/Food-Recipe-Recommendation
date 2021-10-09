@@ -17,6 +17,6 @@ Report v1 draft: https://myunt-my.sharepoint.com/:w:/g/personal/blessykuriakose_
 
 Report v2 draft: https://myunt-my.sharepoint.com/:w:/g/personal/blessykuriakose_my_unt_edu/EQT7DPf-i0NInsX9BwTyTdEBMMgBsP1pRZNFlRo7O9cWlQ?e=i8se6S
 
-Presentation ppt final: https://myunt-my.sharepoint.com/:f:/r/personal/blessykuriakose_my_unt_edu/Documents/Project%201?csf=1&web=1&e=3m5wIN
+Presentation ppt final: https://myunt-my.sharepoint.com/:p:/g/personal/blessykuriakose_my_unt_edu/EYBBmTi8Go9KjA1VuWTrxKwBQ57kzxilNByZ7yOjyXwb5g?e=q1OuR9
 
 Presentation mp4 final: https://web.microsoftstream.com/video/a0d4ff7f-150d-4759-96f1-e37673e9f9eb
